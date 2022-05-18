@@ -1,0 +1,48 @@
+# networking
+localhost
+127.0.0.1
+::1
+/dev/null
+0.0.0.0
+
+# unspecific
+earth
+planet earth
+global
+remote
+somewhere
+nowhere
+everywhere
+home
+here
+world
+worldwide
+lost
+behind you
+hell
+computer
+school
+unknown
+
+# null
+nil
+n/a
+none
+null
+
+# space
+venus
+sun
+mars
+milky way
+
+# other words for online
+the internet
+internet
+online
+
+# other platforms
+discord
+twitter
+github
+linkedin
