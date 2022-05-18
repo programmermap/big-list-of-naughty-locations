@@ -1,9 +1,11 @@
-# networking
+# networking/tech
 localhost
 127.0.0.1
 ::1
 /dev/null
 0.0.0.0
+404
+root
 
 # unspecific
 earth
@@ -11,9 +13,11 @@ planet earth
 global
 remote
 somewhere
+somewhere in the world
 nowhere
 everywhere
 home
+@home
 here
 world
 worldwide
@@ -29,12 +33,15 @@ nil
 n/a
 none
 null
+-
 
 # space
+clouds
 venus
 sun
 mars
 milky way
+galaxy
 
 # other words for online
 the internet
@@ -46,3 +53,6 @@ discord
 twitter
 github
 linkedin
+
+# fiction
+matrix
